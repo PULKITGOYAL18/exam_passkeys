@@ -1,10 +1,12 @@
 {
     "valid_keys": [
-        "2006"
+        "D-SHIELD"
     ],
     "disabled_keys": [
         "OLD456",
-        "TEST999"
+        "TEST999",
+        "2"
     ]
 
 }
+
